@@ -1,4 +1,1 @@
 Learning Git
-
-Git tracks changes
-Git is distributed
