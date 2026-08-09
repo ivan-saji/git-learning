@@ -1,3 +1,2 @@
 Learning Git
-This change belongs to staging.
-This change belongs to testing.
+This change was made to staging directly on github
